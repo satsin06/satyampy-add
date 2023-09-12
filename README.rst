@@ -2,11 +2,11 @@
 satyampy
 =======================================
 
-.. image:: https://github.com/weecology/neonwranglerpy/actions/workflows/python-package.yml/badge.svg
-   :target: https://github.com/weecology/neonwranglerpy/actions/workflows/python-package.yml
+.. image:: https://github.com/satsin06/satyampy-add/actions/workflows/python-package.yml/badge.svg
+   :target: https://github.com/satsin06/satyampy-add/actions/workflows/python-package.yml
    :alt: Python package
 .. image:: http://img.shields.io/badge/license-MIT-blue.svg
-   :target: https://raw.githubusercontent.com/weecology/neonwranglerpy/main/LICENSE
+   :target: https://raw.githubusercontent.com/satsin06/satyampy-add/main/LICENSE
    :alt: License
 
 A Python package, for adding two numbers.
