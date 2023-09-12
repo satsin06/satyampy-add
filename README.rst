@@ -2,8 +2,8 @@
 satyampy
 =======================================
 
-.. image:: https://github.com/satsin06/satyampy-add/actions/workflows/python-package.yml/badge.svg
-   :target: https://github.com/satsin06/satyampy-add/actions/workflows/python-package.yml
+.. image:: https://github.com/satsin06/satyampy-add/actions/workflows/pytest.yml/badge.svg
+   :target: https://github.com/satsin06/satyampy-add/actions/workflows/pytest.yml
    :alt: Python package
 .. image:: http://img.shields.io/badge/license-MIT-blue.svg
    :target: https://raw.githubusercontent.com/satsin06/satyampy-add/main/LICENSE
